@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/hassanmoaa/3-column-card-FrontEndMentor.git)
+- Live Site URL: (https://silly-baklava-dce920.netlify.app)
 
 ### Built with
 
